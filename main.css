@@ -6,8 +6,8 @@
 
 @font-face{ 
 	font-family: 'Montserrat';
-	src: url('font/Montserrat-Regular.ttf');
-	src: url('font/Montserrat-Regular.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/congviec18120062/NHNblog-theme/master/font/Montserrat-Regular.ttf');
+	src: url('https://raw.githubusercontent.com/congviec18120062/NHNblog-theme/master/font/Montserrat-Regular.ttf') format('truetype');
 }
 
 body {
@@ -63,7 +63,7 @@ body {
 }
 
 .banner {
-    background-image: url(img/banner.jpg);
+    background-image: url(https://raw.githubusercontent.com/congviec18120062/NHNblog-theme/master/img/banner.jpg);
     background-size: cover;
     background-position: center;
     height: 450px;
@@ -105,28 +105,28 @@ body {
 }
 
 .fv-post-1 {
-    background-image: url(img/gradient-border.png);
+    background-image: url(https://raw.githubusercontent.com/congviec18120062/NHNblog-theme/master/img/gradient-border.png);
     background-size: cover;
     background-position: top;
     position: relative;
 }
 
 .fv-post-2 {
-    background-image: url(img/css-gradient.png);
+    background-image: url(https://raw.githubusercontent.com/congviec18120062/NHNblog-theme/master/img/css-gradient.png);
     background-size: cover;
     background-position: top;
     position: relative;
 }
 
 .fv-post-3 {
-    background-image: url(img/css-gradient-animator.png);
+    background-image: url(https://raw.githubusercontent.com/congviec18120062/NHNblog-theme/master/img/css-gradient-animator.png);
     background-size: cover;
     background-position: top;
     position: relative;
 }
 
 .fv-post-4 {
-    background-image: url(img/retro-text-shadow.png);
+    background-image: url(https://raw.githubusercontent.com/congviec18120062/NHNblog-theme/master/img/retro-text-shadow.png);
     background-size: cover;
     background-position: top;
     position: relative;
